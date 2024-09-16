@@ -1,0 +1,45 @@
+{
+	"configurations": [
+		{
+			"type": "totvs_language_debug",
+			"request": "launch",
+			"cwb": "${workspaceRoot}",
+			"name": "TOTVS Language Debug",
+			"smartclientBin": "C:\\TOTVS\\Protheus2310\\Protheus\\bin\\smartclient\\smartclient.exe",
+			"program": "${command:AskForProgramName}",
+			"programArguments": [],
+			"enableMultiThread": false,
+			"enableProfile": false,
+			"isMultiSession": true,
+			"isAccessibilityMode": false,
+			"doNotShowSplash": false,
+			"openglMode": false,
+			"dpiMode": false,
+			"olddpiMode": false,
+			"language": "1",
+			"ignoreFiles": true,
+			"enableTableSync": true
+		}
+	],
+	"lastPrograms": [
+		{
+			"label": "SIGAMDI"
+		},
+		{
+			"label": "U_SOMA"
+		},
+		{
+			"label": "U_tipo_fun"
+		},
+		{
+			"label": "U_tipo1"
+		},
+		{
+			"label": "U_tipo2"
+		},
+		{
+			"label": "U_tipo3"
+		}
+	],
+	"lastProgramExecuted": "U_tipo3"
+}

@@ -1,0 +1,6 @@
+user Function fore ()
+local ctexto as Character
+
+ctexto := "texto"
+
+RETURN
